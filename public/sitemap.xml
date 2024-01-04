@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.example.com/join-us/</loc>
+    <lastmod>2024-01-03T15:07:02+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.example.com/awards/</loc>
     <lastmod>2023-12-30T11:28:56+05:45</lastmod>
     <changefreq>monthly</changefreq>
@@ -37,162 +42,32 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.example.com/posts/</loc>
-    <lastmod>2023-12-06T18:43:57+05:45</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/subsection3/</loc>
-    <lastmod>2023-12-06T18:43:57+05:45</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/project-types/open-source/</loc>
-    <lastmod>2023-02-20T03:52:30-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/projects/portfolio-project-3/</loc>
-    <lastmod>2023-02-20T03:52:30-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/project-types/</loc>
-    <lastmod>2023-02-20T03:52:30-05:00</lastmod>
+    <loc>https://www.example.com/projects/danphe/</loc>
+    <lastmod>2020-02-20T03:52:30-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.example.com/projects/</loc>
-    <lastmod>2023-02-20T03:52:30-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/projects/portfolio-project-4/</loc>
-    <lastmod>2022-02-20T03:52:30-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/projects/portfolio-project-5/</loc>
-    <lastmod>2021-02-20T03:52:30-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/categories/</loc>
-    <lastmod>2020-12-17T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/tags/html/</loc>
-    <lastmod>2020-12-17T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/series/learn-markdown/</loc>
-    <lastmod>2020-12-17T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/tags/markdown/</loc>
-    <lastmod>2020-12-17T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/subsection2/markdown-syntax-2/</loc>
-    <lastmod>2020-11-19T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/series/</loc>
-    <lastmod>2020-12-17T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/subsection-2/</loc>
-    <lastmod>2020-12-17T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/categories/web-development/</loc>
-    <lastmod>2020-12-17T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/categories/formatting/</loc>
-    <lastmod>2020-11-18T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/subsection/placeholder-text/</loc>
-    <lastmod>2020-11-18T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/subsection/</loc>
-    <lastmod>2020-11-18T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/subsection/see-also-read-next/</loc>
-    <lastmod>2020-11-17T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/tags/emoji/</loc>
-    <lastmod>2020-11-18T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/posts/emoji-support/</loc>
-    <lastmod>2020-11-18T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/subsection2/markdown-syntax/</loc>
-    <lastmod>2020-12-17T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/subsection/really-long-toc/</loc>
-    <lastmod>2020-11-17T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/tags/katex/</loc>
-    <lastmod>2020-11-16T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/categories/math/</loc>
-    <lastmod>2020-11-16T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/subsection/math-typesetting/</loc>
-    <lastmod>2020-11-16T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/tags/notation/</loc>
-    <lastmod>2020-11-16T21:21:46-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/project-types/personal/</loc>
     <lastmod>2020-02-20T03:52:30-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.example.com/projects/portfolio-project-2/</loc>
+    <loc>https://www.example.com/tags/projects/</loc>
     <lastmod>2020-02-20T03:52:30-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.example.com/robocon/portfolio-project-1/</loc>
+    <loc>https://www.example.com/projects/quadcopter/</loc>
+    <lastmod>2020-02-20T03:52:30-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/robocon/2023/</loc>
     <lastmod>2019-02-20T03:52:30-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.example.com/projects/portfolio-project-1/</loc>
+    <loc>https://www.example.com/projects/chharito-ghar/</loc>
     <lastmod>2019-02-20T03:52:30-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -201,11 +76,23 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.example.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.example.com/gallery/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.example.com/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/project-types/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/series/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

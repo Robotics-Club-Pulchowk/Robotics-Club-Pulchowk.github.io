@@ -83,3 +83,10 @@
     parent = "reach us"
     weight = 10
 
+
+[[main]]
+    identifier = "join-us"
+    name = "Join Us"
+    url = "/join-us/"
+    parent = "reach us"
+    weight = 16

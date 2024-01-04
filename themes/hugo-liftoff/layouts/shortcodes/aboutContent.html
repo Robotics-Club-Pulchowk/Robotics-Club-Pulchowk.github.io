@@ -4,6 +4,6 @@
       aboutContentHtml += "<div class='about-content-row'><p class='about-content-text'>{{.Get "text"}}</p><img class='about-content-img' src='{{.Site.BaseURL}}about/images/{{.Get "img_src"}}'></div>"
     }
     else {
-      aboutContentHtml += "<div class='about-content-row'><img class='about-content-img' src='{{.Site.BaseURL}}about/images/{{.Get "img_src"}}'><p class='about-content-text'>{{.Get "text"}}</p></div>"
+      aboutContentHtml += "<div class='about-content-row about-content-row-display-inherit'><img class='about-content-img' src='{{.Site.BaseURL}}about/images/{{.Get "img_src"}}'><p class='about-content-text'>{{.Get "text"}}</p></div><div class='about-content-row about-content-row-display-none'><p class='about-content-text'>{{.Get "text"}}</p><img class='about-content-img' src='{{.Site.BaseURL}}about/images/{{.Get "img_src"}}'></div>"
     }
   </script>
