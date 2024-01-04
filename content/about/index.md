@@ -14,7 +14,6 @@ image 2: IMG_3196-1.webp
 
 # Robotics Club
 
-
 {{<aboutContent text="The Robotics Club of Pulchowk Campus was founded in 2001 A.D. by a group of aspiring and visionary students of the campus with a motive of introducing robotics officially to the nation. With pioneering and reformative education introduced by the IOE, the country was fast moving ahead in the fields of engineering. With this and with the knowledge of the global scenario came the consciousness that technology is the future of the world." img_src="photo_6280687211775112622_y.jpg" img_align="r">}}
 
  <!-- The Robotics Club of Pulchowk Campus was founded in 2001 A.D. by a group of aspiring and visionary students of the campus with a motive of introducing robotics officially to the nation. With pioneering and reformative education introduced by the IOE, the country was fast moving ahead in the fields of engineering. With this and with the knowledge of the global scenario came the consciousness that technology is the future of the world.-->

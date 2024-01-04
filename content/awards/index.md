@@ -25,3 +25,9 @@ date: 2023-12-30T11:28:56+05:45
 {{<awardsContent title="ROHM Semiconductors Award, 2019" text="Awarded by ROHM Semiconductors for impressive mechanism on the robots prepared for the contest of ABU ROBOCON 2019 (Ulaanbaatar, Mongolia)." img_src="ROHMSemiconductorsAward2019.webp">}}
 
 {{<awardsContent title="Tokyo Electron Award 2020, China" text="With Covid-19 Pandemic hitting the world, the host decided to conduct the event in virtual platform. Despite the circumstances and limitation in resources, Nepal delivered splendid video of robot revelation and concise presentation. With high hopes, the sponsor awarded Nepal 'Tokyo Electron Award '." img_src="TokyoElectronAward2020China.webp">}}
+
+{{<awardsContent title="Nagase Award, 2022, India" text="" img_src="NagaseAward2022India.webp">}}
+
+{{<awardsContent title="2nd Runner Up Award 2022,India" text="" img_src="2ndRunnerUpAward2022India.webp">}}
+
+{{<awardsContent title="Mabuchi Motor Award 2023, Cambodia" text="" img_src="">}}

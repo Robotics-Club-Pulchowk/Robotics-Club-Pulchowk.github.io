@@ -1,9 +1,9 @@
 ---
-title: ABU ROBOCON 2023, Cambodia
-seo_title: ABU ROBOCON 2023, Cambodia
+title: ABU ROBOCON 2023, Phnom Penh, CAMBODIA
+seo_title: ABU ROBOCON 2023, Phnom Penh, CAMBODIA
 summary:
 description:
-slug: portfolio-project-1
+slug: 2023
 author: John Doe
 
 date: 2019-02-20T03:52:30-05:00
