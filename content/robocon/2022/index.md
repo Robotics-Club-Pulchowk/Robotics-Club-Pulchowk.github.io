@@ -11,7 +11,7 @@ lastmod:
 expiryDate: 
 publishDate: 
 
-feature_image: DSC_6136.webp
+feature_image: 2022.webp
 feature_image_alt: 
 
 categories:
@@ -19,7 +19,7 @@ tags: ROBOCON
 series:
 
 ---
-![Alt text](DSC_6136.webp)
+![Alt text](2022.webp)
 
 ABU Robocon 2022 was hosted by India. Due to the COVID-19 pandemic, the onsite contest was not held. The participants instead did a demonstration run of their robots at their local universities as a one-player game.
 

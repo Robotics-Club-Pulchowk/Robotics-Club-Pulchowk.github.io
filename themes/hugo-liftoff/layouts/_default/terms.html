@@ -1,12 +1,15 @@
 {{ define "main" }}
 <div class="container">
   <section class="page-header--c">
-    <h1 class="page-header-title">{{ .Title }}</h1>
+    <h1 class="page-header-title">Our Alumni</h1>
   </section>
-  <div class="terms">
-    {{ with .Data.Terms.ByCount }}
+  <div class="alumni-grid">
+    {{ with .Data.Terms}}
       {{ range . }}
-        <a class="term" href="{{ .Page.Permalink }}">{{ .Page.Title }} <sup class="term-count">{{ .Count }}</sup></a>
+      <div class="alumni-year-tile">
+        <img class="alumni-year-tile-img" src="{{ absURL "/" }}robocon/{{.Page.Title}}/{{ .Page.Title }}.webp" alt="">
+        <a class="term" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      </div>
       {{ end }}
     {{ else }}
       {{ partial "general/fallback-text.html" . }}

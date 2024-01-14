@@ -14,15 +14,22 @@ publishDate:
 
 feature_image: title_img.webp
 
+
 tags: PROJECTS
+
+project-types: 
+  - Aerospace
+  - Mechanical
 ---
 
-In response to the devastating earthquake of 2015, our club extended it's expertise beyond technology and robotics in order to help the victims of the unfortunate disaster. We designed an affordable sheltering solution for families who had lost their home in earthquake in the form of chharito ghar. 
+In response to the devastating earthquake of 2015, our club extended it's expertise beyond technology and robotics in order to help the victims of the unfortunate disaster. We designed an affordable sheltering solution for families who had lost their home in earthquake in the form of chharito ghar.
 
 The approximate cost of each house was around 970USD. We had organized various fund raising programs and also collaborated with various NGOs and INGOs in order to provide shelter for more than 300 families.
-![demo](3d.webp)
- |![demo](go_fund_me.webp)|
- |:--:|
- |captions look like this| 
- 
- <figcaption><a src="https://www.gofundme.com/f/reliefrobotics">Go fund me</figcaption>
+
+{{<image-with-caption img_src="3d.webp" cation="Chharito Sabhagriha">}}
+
+{{<image-with-caption img_src="go_fund_me.webp" caption="Go Fund Me">}}
+
+[Go fund me page](https://www.gofundme.com/f/reliefrobotics)
+
+

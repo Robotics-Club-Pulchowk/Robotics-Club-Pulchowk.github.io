@@ -1,15 +1,16 @@
 .terms {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 15px 15px;
+  flex-direction: column;
 }
 
 .term {
   border: 1px solid var(--color-primary);
-  border-radius: 20px;
   @include font-size('sm');
+  border-radius: 0 0 12px 12px;
+  width: 100%;
+  margin: 0;
   padding: 0.4rem 0.6rem;
+  font-weight: 600;
   
   &:hover {
     text-decoration: none;
@@ -20,9 +21,4 @@
   @include respond-to('small') {
     padding: 0.5rem 0.7rem;
   }
-}
-
-.term-count {
-  color: var(--color-contrast-high);
-  margin-left: 2px;
 }

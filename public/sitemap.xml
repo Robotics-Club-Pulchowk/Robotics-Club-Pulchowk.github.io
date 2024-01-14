@@ -2,6 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.example.com/years/2019/</loc>
+    <lastmod>2024-01-14T13:22:33+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/years/2020/</loc>
+    <lastmod>2024-01-14T13:22:33+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/</loc>
+    <lastmod>2024-01-14T13:22:33+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/alumni/saju-khakurel/</loc>
+    <lastmod>2024-01-14T13:22:33+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/years/</loc>
+    <lastmod>2024-01-14T13:22:33+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/years/2021/</loc>
+    <lastmod>2024-01-14T13:20:59+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/years/2022/</loc>
+    <lastmod>2024-01-14T13:20:59+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/alumni/kailash-pantha/</loc>
+    <lastmod>2024-01-14T13:20:59+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/alumni/tilak-bhusal/</loc>
+    <lastmod>2024-01-14T13:18:25+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/alumni/khim-bahadur-basnet/</loc>
+    <lastmod>2024-01-14T13:17:01+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/years/2018/</loc>
+    <lastmod>2024-01-14T13:15:12+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/alumni/aasman-bashyal/</loc>
+    <lastmod>2024-01-14T13:15:12+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/alumni/uttam-bohara/</loc>
+    <lastmod>2024-01-14T13:03:12+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/alumni/asmin-siwal/</loc>
+    <lastmod>2024-01-08T16:40:24+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/years/2023/</loc>
+    <lastmod>2024-01-08T16:28:10+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/alumni/hari-prasad-gajurel/</loc>
+    <lastmod>2024-01-08T16:28:10+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/alumni/</loc>
+    <lastmod>2024-01-07T10:32:01+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.example.com/join-us/</loc>
     <lastmod>2024-01-03T15:07:02+05:45</lastmod>
     <changefreq>monthly</changefreq>
@@ -27,11 +112,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.example.com/</loc>
-    <lastmod>2023-12-24T17:01:43+05:45</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.example.com/tags/</loc>
     <lastmod>2023-12-24T17:01:43+05:45</lastmod>
     <changefreq>monthly</changefreq>
@@ -39,6 +119,116 @@
   </url><url>
     <loc>https://www.example.com/sponsor/</loc>
     <lastmod>2023-12-24T09:18:40+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/posts/</loc>
+    <lastmod>2023-12-06T18:43:57+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/subsection3/</loc>
+    <lastmod>2023-12-06T18:43:57+05:45</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/categories/</loc>
+    <lastmod>2020-12-17T21:21:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/tags/html/</loc>
+    <lastmod>2020-12-17T21:21:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/series/learn-markdown/</loc>
+    <lastmod>2020-12-17T21:21:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/tags/markdown/</loc>
+    <lastmod>2020-12-17T21:21:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/subsection2/markdown-syntax-2/</loc>
+    <lastmod>2020-11-19T21:21:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/series/</loc>
+    <lastmod>2020-12-17T21:21:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/subsection-2/</loc>
+    <lastmod>2020-12-17T21:21:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/categories/web-development/</loc>
+    <lastmod>2020-12-17T21:21:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/categories/formatting/</loc>
+    <lastmod>2020-11-18T21:21:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/subsection/placeholder-text/</loc>
+    <lastmod>2020-11-18T21:21:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/subsection/</loc>
+    <lastmod>2020-11-18T21:21:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/subsection/see-also-read-next/</loc>
+    <lastmod>2020-11-17T21:21:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/tags/emoji/</loc>
+    <lastmod>2020-11-18T21:21:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/posts/emoji-support/</loc>
+    <lastmod>2020-11-18T21:21:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/subsection2/markdown-syntax/</loc>
+    <lastmod>2020-12-17T21:21:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/subsection/really-long-toc/</loc>
+    <lastmod>2020-11-17T21:21:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/tags/katex/</loc>
+    <lastmod>2020-11-16T21:21:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/categories/math/</loc>
+    <lastmod>2020-11-16T21:21:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/subsection/math-typesetting/</loc>
+    <lastmod>2020-11-16T21:21:46-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.example.com/tags/notation/</loc>
+    <lastmod>2020-11-16T21:21:46-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -57,11 +247,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.example.com/projects/quadcopter/</loc>
-    <lastmod>2020-02-20T03:52:30-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.example.com/robocon/2023/</loc>
     <lastmod>2019-02-20T03:52:30-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -73,10 +258,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.example.com/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.example.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -92,7 +273,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.example.com/series/</loc>
+    <loc>https://www.example.com/projects/quadcopter/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

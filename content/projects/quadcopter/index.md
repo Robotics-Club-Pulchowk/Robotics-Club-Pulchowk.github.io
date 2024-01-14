@@ -7,7 +7,7 @@ slug: Quadcopter
 author: John Doe
 
 draft: false
-date: 2020-02-20T03:52:30-05:00
+date:
 lastmod: 
 expiryDate: 
 publishDate: 

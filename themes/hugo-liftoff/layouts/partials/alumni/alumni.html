@@ -1,0 +1,21 @@
+
+<div class="container">
+  <section class="page-header">
+    <h1 class="page-header-title">
+      {{- if eq .Kind "term" -}}
+        {{- .Title }} Projects
+      {{- else -}}
+        {{- .Title -}}
+      {{- end -}}
+    </h1>
+  </section>
+  <section>
+    {{ with .RegularPagesRecursive }}
+      <div class="alumni-grid">
+        {{ range . }}
+          {{ partial "alumni/alumni-entry.html" . }}
+        {{ end }}
+      </div>
+    {{ else }}
+      {{ partial "general/fallback-text.html" . }}
+    {{ end }}

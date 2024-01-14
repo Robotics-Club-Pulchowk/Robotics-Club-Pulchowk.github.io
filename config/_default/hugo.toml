@@ -48,6 +48,7 @@ theme = 'hugo-liftoff'
 #     path = 'hugo-liftoff'
 
 [taxonomies]
+    years = 'years'
     tag = 'tags'
     category = 'categories'    
     series = 'series' # Allows you to create an organized series of posts (e.g. multi-part tutorial)
@@ -116,6 +117,9 @@ theme = 'hugo-liftoff'
 [[related.indices]]
   name = 'tags'
   weight = 80
+[[related.indices]]
+  name = 'years'
+  weight = 100
 
 [sitemap]
   # Default sitemap settings
@@ -173,6 +177,8 @@ theme = 'hugo-liftoff'
       keepComments = false
       keepConditionalComments = true
       keepDefaultAttrVals = true
+      keepDocumentYears = true
+      keepEndYears = true
       keepDocumentTags = true
       keepEndTags = true
       keepQuotes = false

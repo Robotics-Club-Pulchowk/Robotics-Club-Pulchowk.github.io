@@ -1,5 +1,26 @@
-.awards-content-img{
+.awards-content-img {
   max-height: 400px;
   max-width: 350px;
   border-radius: 15px;
+}
+
+.awards-tile {
+  background-color: var(--color-contrast-lower);
+  border-radius: 12px;
+  padding: 12px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.awards-tile h2 {
+  padding: 20px;
+  text-align: center;
+}
+
+@media (max-width:900px){
+  .awards-tile h2{
+    padding: 0;
+    margin-bottom: 0;
+  }
 }

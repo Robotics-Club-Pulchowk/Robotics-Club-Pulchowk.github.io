@@ -12,12 +12,6 @@
     parent = "work"
     weight = 12
 
-[[main]]
-    identifier = "sponsor"
-    name = "Sponsor"
-    url = "/sponsor/"
-    parent = "explore"
-    weight = 13
 
 [[main]]
     identifier = "awards"
@@ -48,19 +42,7 @@
     url = "/categories/"
     weight = 6
 
-[[main]]
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories/"
-    parent = "explore"
-    weight = 6
 
-[[main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    parent = "explore"
-    weight = 7
 
 [[main]]
     # Top-level menu entry
@@ -84,9 +66,10 @@
     weight = 10
 
 
+
 [[main]]
-    identifier = "join-us"
-    name = "Join Us"
-    url = "/join-us/"
-    parent = "reach us"
-    weight = 16
+    identifier = "alumni"
+    name = "Alumni"
+    url = "/years/"
+    parent = "explore"
+    weight = 10

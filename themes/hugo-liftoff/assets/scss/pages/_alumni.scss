@@ -1,0 +1,76 @@
+.alumni-grid {
+  display: grid;
+  margin: 0 auto;
+  grid-template-columns: 1fr 1fr;
+  max-width: 1000px;
+}
+
+.alumni-year-tile {
+  background-color: var(--color-contrast-lower);
+  border-radius: 12px;
+  padding: 12px;
+  max-width: 600px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.alumni-person-tile {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 12px;
+  background-color: var(--color-contrast-lower);
+  margin: 12px;
+  border-radius: 12px;
+  flex-shrink: 0;
+}
+
+.alumni-year-tile-img {
+  width: 100%;
+  border-radius: 12px 12px 0 0;
+}
+
+.alumni-year-title-img {
+  width: 100%;
+  border-radius: 12px;
+}
+
+.rect-img-container {
+  position: relative;
+}
+
+.rect-img-container::after {
+  content: "";
+  display: block;
+}
+
+.alumni-person-tile-img {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+
+
+@media (max-width:950px) {
+  .alumni-grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .alumni-person-tile {
+    max-width: 550px;
+    min-width: 500px;
+    // flex-direction: column;
+  }
+}
+
+@media (max-width:550px) {
+  .alumni-person-tile {
+    flex-direction: column;
+    min-width: 300px;
+  }
+}

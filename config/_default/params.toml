@@ -7,9 +7,9 @@ disallow_search_engines = false # Disallow search engine crawling in robots.txt
 favicon = true # Enable favicon, add your favicon files to /static/ directory
 # avatar = 'avatar.png' # Custom avatar image in /assets/
 grayscale_avatar = true # Add a grayscale filter to the avatar image
-author = 'John Doe' # Default author for <head> meta
+author = 'Utsav Shrestha' # Default author for <head> meta
 description = "Personal blog and portfolio site of John Doe." # Add a global meta description to <head>
-footer_text = "Placeholder footer." # Customize footer text
+footer_text = "" # Customize footer text
 fallback_text = "No content available yet. Coming soon." # Fallback text for empty content
 label_drafts = true # Add a label indicator next to the title of any built drafts (dev only)
 
