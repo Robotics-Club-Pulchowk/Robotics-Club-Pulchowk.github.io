@@ -7,7 +7,7 @@
     {{ with .Data.Terms}}
       {{ range . }}
       <div class="alumni-year-tile">
-        <img class="alumni-year-tile-img" src="{{ absURL "/" }}robocon/{{.Page.Title}}/{{ .Page.Title }}.webp" alt="">
+        <img class="alumni-year-tile-img" src="{{ absURL "/" }}robotics_club_site/images/groupPhotos/{{ .Page.Title }}.webp" onerror="this.src='{{ absURL "/" }}images/groupPhotos/{{ .Page.Title }}.webp'" alt="">
         <a class="term" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
       </div>
       {{ end }}

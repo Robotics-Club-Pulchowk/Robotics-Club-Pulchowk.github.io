@@ -8,7 +8,7 @@ author: Utsav Shrestha
 date: 2024-01-14T13:22:33+05:45
 
 graduated_year: 2022
-department: 
+department: BEX 
 years:
   - 2019
   - 2020
