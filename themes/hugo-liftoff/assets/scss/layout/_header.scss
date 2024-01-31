@@ -138,16 +138,18 @@
 
 .home_logo_light {
   position: absolute;
+  height: 70px;
   opacity: var(--icon-opacity_light);
-  width: 80px;
+  // width: 80px;
   // transition: opacity 0.2s;
   // transition: opacity var(--switch-animation-duration);
 }
 
 .home_logo_dark {
   position: absolute;
+  height: 70px;
   opacity: var(--icon-opacity_dark);
-  width: 80px;
+  // width: 80px;
   // transition: opacity 0.2s;
   // transition: opacity var(--switch-animation-duration);
 }

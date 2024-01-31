@@ -16,5 +16,5 @@ joinUs_section_heading: Join Us
 {{< robocon 2 >}}
 <!-- {{< recent-posts 2 >}} -->
 {{< projects 2 >}}
-{{< gallery >}}
 {{< join-us >}}
+{{< gallery >}}

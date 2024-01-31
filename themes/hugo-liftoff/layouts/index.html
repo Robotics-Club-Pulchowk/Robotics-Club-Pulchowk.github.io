@@ -36,7 +36,7 @@
       {{ if eq .Site.Params.grayscale_avatar true }}
       {{ $image = $image | images.Filter (images.Grayscale) }}
       {{ end }}
-      <img class="hero-avatar" src="https://i.postimg.cc/DmkyPHTf/photo-6280687211775112622-y.jpg" loading="lazy"
+      <img class="hero-avatar" src="{{.Site.BaseURL}}images/frontPhoto.webp" loading="lazy"
         alt="A Group Photo" />
       {{ if eq .Site.Params.home_hero_socials true }}
       {{ partial "general/social-links.html" . }}

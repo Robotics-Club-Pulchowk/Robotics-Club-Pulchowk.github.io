@@ -3,7 +3,7 @@
   <section class="page-header--c">
     <h1 class="page-header-title">{{ .Title }}</h1>
   </section>
-  <img class="alumni-year-title-img" src="{{.Site.BaseURL}}robocon/{{.Title}}/{{.Title}}.webp" alt="">
+  <img class="alumni-year-title-img" src="{{.Site.BaseURL}}images/groupPhotos/{{.Title}}.webp" alt="">
   <div class="alumni-grid">
     {{ range (.Pages.ByParam "years").Reverse }}
     <div class="alumni-person-tile">
