@@ -351,7 +351,8 @@ template {
  * Set up a decent box model on the root element
  */
 html {
-  box-sizing: border-box; }
+  box-sizing: border-box;
+  text-align: justify; }
 
 /**
  * Make all elements from the DOM inherit from the parent box-sizing
@@ -1160,15 +1161,18 @@ body {
   width: 100%;
   margin: 0;
   padding: 0;
-  border-radius: 12px 12px 0 0; }
+  border-radius: 12px; }
 
 .image-with-caption_caption {
   width: 100%;
   text-align: center;
-  background-color: var(--color-contrast-low);
+  background-color: transparent;
+  counter-increment: var(--color-contrast-high);
   margin: 0 0 12px 0;
   padding: 0;
-  border-radius: 0 0 12px 12px; }
+  font-size: 18px;
+  border-radius: 0 0 12px 12px;
+  font-style: italic; }
 
 .hero {
   display: flex;
@@ -1181,6 +1185,21 @@ body {
   @media (min-width: 900px) {
     .hero {
       padding: 80px 0; } }
+.hero-section {
+  position: relative;
+  padding-top: 83px;
+  height: 100vh;
+  max-height: 1000px;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-origin: content-box;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; }
+
 .hero-info {
   flex: 50%;
   flex-direction: column; }
@@ -1190,6 +1209,7 @@ body {
   .hero-info .hero-title {
     font-weight: 900;
     margin-top: 0;
+    text-align: left;
     font-size: var(--font-size-xl);
     line-height: calc(8px + 2ex); }
   .hero-info .hero-subtitle {

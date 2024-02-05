@@ -17,6 +17,23 @@
   }
 }
 
+.hero-section {
+
+  position: relative;
+  padding-top: 83px;
+  height: 100vh;
+  max-height: 1000px;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-origin: content-box;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 .hero-info {
 
   flex: 50%;
@@ -29,6 +46,7 @@
   .hero-title {
     font-weight: 900;
     margin-top: 0;
+    text-align: left;
     @include font-size('xl');
   }
 

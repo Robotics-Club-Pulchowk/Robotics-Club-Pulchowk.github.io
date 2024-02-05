@@ -27,9 +27,12 @@ The theme of the game was called "lagori". The game took inspiration from the tr
 
 The seeker's first robot executed the initial move by skillfully breaking a carefully arranged pile of stones using three small balls. Following this, the seeker's second robot took the stage, diligently rebuilding the pile of stones while balancing a ball on its head. The challenge intensified as the hitter's robot entered the arena, strategically attempting to dislodge the ball perched on the seeker's robot.
 
-The rounds were gripping, concluding immediately once the hitter's robot successfully knocked off the ball from the seeker's second robot's head. Points were tallied based on the number of stones displaced and subsequently rebuilt by the teams. The team with the higher score at the end of the intense competition was declared the triumphant winner of ABU Robocon 2022.
-
 {{<image-with-caption img_src="DSC_5314.webp" caption="The seeker Robot">}}
+
+The rounds were gripping, concluding immediately once the hitter's robot successfully knocked off the ball from the seeker's second robot's head. Points were tallied based on the number of stones displaced and subsequently rebuilt by the teams. The team with the higher score at the end of the intense competition was declared the triumphant winner.
 
 {{<image-with-caption img_src="DSC_6032.webp" caption="The hitter Robot">}}
 
+Nepal started of the tournament strong, defeating both Thailand and India in the group stage matches and emeging as the top team in the group. Nepal moved on to the quarter-finals where they had to face India. With a bit of luck Nepal defeated India, as India was disqualified as they violated some rules. Nepal moved on to semi-finals, which was a first time for us. Nepal then faced team Hong-Kong and was defeated. Nepal secured the second runner-up position, sharing the honour with team India 2; while Hong-Kong was defeated by Indonesia in the finals and was palced first runner-up and Indonesia as the winner.
+
+This was the first time for Nepal to secure any position in the top four. Nepal recieved the **Second Runner-Up** award as well as the **Nagase** award for their brilliant perforamnce in the tournament.
