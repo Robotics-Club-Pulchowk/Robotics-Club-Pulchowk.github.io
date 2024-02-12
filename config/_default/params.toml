@@ -1,5 +1,5 @@
 ### SEO, Analytics & 3rd-party
-netlify_forms = true # add data-netlify attribute to contact and newsletter forms, false to disable Netlify forms
+netlify_forms = false # add data-netlify attribute to contact and newsletter forms, false to disable Netlify forms
 # gtm_id = '' # GTM tracking (leave blank to use GA)
 disallow_search_engines = false # Disallow search engine crawling in robots.txt
 
@@ -7,9 +7,9 @@ disallow_search_engines = false # Disallow search engine crawling in robots.txt
 favicon = true # Enable favicon, add your favicon files to /static/ directory
 # avatar = 'avatar.png' # Custom avatar image in /assets/
 grayscale_avatar = true # Add a grayscale filter to the avatar image
-author = 'Utsav Shrestha' # Default author for <head> meta
-description = "Personal blog and portfolio site of John Doe." # Add a global meta description to <head>
-footer_text = "" # Customize footer text
+author = 'Robotics Club, Pulchowk Campus' # Default author for <head> meta
+description = "The official website of Robotics Club, Pulchowk Campus." # Add a global meta description to <head>
+footer_text = "Made with 🦾🤖 at Robotics Club." # Customize footer text
 fallback_text = "No content available yet. Coming soon." # Fallback text for empty content
 label_drafts = true # Add a label indicator next to the title of any built drafts (dev only)
 
@@ -30,11 +30,11 @@ images = ['images/default.png'] # Fallback for Open Graph and Twitter Cards imag
 ogLocale = "en_US" # Open graph locale
 
 # Twitter Cards
-twitterSite = "johndoestwitter" # Enter your twitter handle without the @
-twitterCreator = "johndoestwitter" # Enter your twitter handle without the @
+# twitterSite = "johndoestwitter" # Enter your twitter handle without the @
+# twitterCreator = "johndoestwitter" # Enter your twitter handle without the @
 
 # JSON-LD structured data schemas
-schemaName = "John Doe" # Enter your name
+schemaName = "Robotics Club, Pulchowk Campus" # Enter your name
 schemaLocale = "en-US" # Structured data locale
 schemaImage = "images/default.png" # Image for Person structured data schema. Enter path to the image.
 schemaImageWidth = 453 # Width of the above image
@@ -52,9 +52,10 @@ about_page_socials = true
   github = "Robotics-Club-Pulchowk"
   #stack_overflow = "userid/username" # include user id
   email = "roboticsclub@pcampus.edu.np"
-  linkedin = "robotics-club-ioe-pulchowk-campus/mycompany/" # Comment out to disable
+  # linkedin = "robotics-club-pulchowk-campus" # Comment out to disable
+  linkedin_company = "robotics-club-pulchowk-campus" # For company link; above one is for individual profile link
   facebook = "roboticsclubpulchowk"
-  instagram = "roboticsclub_pulchowk_campus/"
+  instagram = "roboticsclub_pulchowk_campus"
   # mastodon_server = "example.social" # include subdomains if relevant, scheme not needed (defaults to https)
   # mastodon_user = "username" # don't include preceding @
 
@@ -64,5 +65,5 @@ about_page_socials = true
   facebook = true
   linkedin = true
   twitter = true
-  reddit = true
+  reddit = false
   email = true
