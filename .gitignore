@@ -19,7 +19,7 @@ hugo.linux
 *.code-workspace
 
 # js
-/node_modules/
+**/node_modules/**
 
-# themes/hugo-liftoff
-/exampleSite/
+# Example site (themes/hugo-liftoff)
+**/exampleSite/**
