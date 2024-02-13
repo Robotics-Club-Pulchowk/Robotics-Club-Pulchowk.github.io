@@ -1616,6 +1616,8 @@ body {
 
 .alumni-year-tile-img {
   width: 100%;
+  height: 100%;
+  object-fit: cover;
   border-radius: 12px 12px 0 0; }
 
 .alumni-year-title-img {
@@ -1648,5 +1650,13 @@ body {
   .alumni-person-tile {
     flex-direction: column;
     min-width: 300px; } }
+
+.rect-img-container-year {
+  position: relative;
+  height: 100%; }
+
+.rect-img-container-year::after {
+  content: "";
+  display: block; }
 
 /*# sourceMappingURL=main.css.map */

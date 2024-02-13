@@ -7,7 +7,7 @@
 
 [[main]]
     identifier = "robocon"
-    name = "Robocon"
+    name = "ABU Robocon"
     url = "/robocon/"
     parent = "work"
     weight = 12

@@ -55,6 +55,15 @@
     </li>
     {{ end }}
 
+     <!-- LinkedIn - Company -->
+    {{ with .Site.Params.social.links.linkedin_company }}
+    <li>
+      <a href="https://www.linkedin.com/company/{{ . }}" target="_blank" rel="noopener" aria-label="Visit LinkedIn profile" class="social-btn linkedin">
+        {{ partial "svg/linkedin.svg" }}
+        </a>
+    </li>
+    {{ end }}
+
     <!-- Email -->
     {{ with .Site.Params.social.links.email }}
     <li>

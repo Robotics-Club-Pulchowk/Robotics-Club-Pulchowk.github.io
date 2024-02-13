@@ -28,6 +28,8 @@
 
 .alumni-year-tile-img {
   width: 100%;
+  height: 100%;
+  object-fit: cover;
   border-radius: 12px 12px 0 0;
 }
 
@@ -60,7 +62,7 @@
     flex-direction: column;
     align-items: center;
   }
-  
+
   .alumni-person-tile {
     max-width: 550px;
     min-width: 500px;
@@ -73,4 +75,14 @@
     flex-direction: column;
     min-width: 300px;
   }
+}
+
+.rect-img-container-year {
+  position: relative;
+  height: 100%;
+}
+
+.rect-img-container-year::after {
+  content: "";
+  display: block;
 }

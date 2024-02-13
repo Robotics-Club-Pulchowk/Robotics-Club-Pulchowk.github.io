@@ -7,7 +7,10 @@
     {{ with .Data.Terms}}
     {{ range . }}
     <div class="alumni-year-tile">
-      <img class="alumni-year-tile-img" src="https://robotics-club-pulchowk.github.io/Robotics_Club_Pulchowk.github.io/images/groupPhotos/{{.Page.Title }}.webp" onerror="this.src='{{ absURL " /" }}images/groupPhotos/{{ .Page.Title }}.webp'" alt="">
+      <div class="rect-img-container-year">
+        <img class="alumni-year-tile-img" src="https://robotics.pcampus.edu.np/images/groupPhotos/{{.Page.Title }}.webp"
+          onerror="this.src='{{ absURL " /" }}images/groupPhotos/{{ .Page.Title }}.webp'" alt="">
+      </div>
       <a class="term" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
     </div>
     {{ end }}
