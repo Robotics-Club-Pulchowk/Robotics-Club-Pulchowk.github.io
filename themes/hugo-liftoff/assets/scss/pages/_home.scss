@@ -7,7 +7,6 @@
   flex-wrap: wrap;
   align-items: center;
   gap: 3rem 5vw;
-  height: 95vh;
 
   @include respond-to('medium') {
     flex-wrap: nowrap;

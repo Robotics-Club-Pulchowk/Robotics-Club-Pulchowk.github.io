@@ -1,8 +1,8 @@
 ---
 title: Chharito Ghar
 seo_title: Chharito Ghar
-summary: Affordable shelter concept for 2015 earthquake victims.
-description: Affordable shelter concept for 2015 earthquake victims.
+summary: Affordable shelter for 2015 earthquake victims.
+description: Affordable shelter for 2015 earthquake victims.
 slug: Chharito Ghar
 author: John Doe
 

@@ -1178,8 +1178,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 3rem 5vw;
-  height: 95vh; }
+  gap: 3rem 5vw; }
   @media (min-width: 768px) {
     .hero {
       flex-wrap: nowrap; } }
