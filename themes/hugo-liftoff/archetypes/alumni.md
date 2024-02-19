@@ -13,7 +13,7 @@ years:
   - 
   - 
   - 
-personal_photo_src: {{.Name}}.webp
+personal_photo_src: 
 group_photo_src: 
 
 ---

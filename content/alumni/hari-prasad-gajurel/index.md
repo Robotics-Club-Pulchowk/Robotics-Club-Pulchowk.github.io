@@ -7,7 +7,7 @@ author: Utsav Shrestha
 
 date: 2024-01-08T16:28:10+05:45
 
-graduated_year: --
+graduated_year: 2025
 department: BME
 years:
   - 2023

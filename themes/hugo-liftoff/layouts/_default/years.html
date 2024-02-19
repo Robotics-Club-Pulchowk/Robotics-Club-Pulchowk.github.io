@@ -5,7 +5,7 @@
   </section>
   <img class="alumni-year-title-img" src="{{.Site.BaseURL}}images/groupPhotos/{{.Title}}.webp" alt="">
   <div class="alumni-grid">
-    {{ range (.Pages.ByParam "years").Reverse }}
+    {{ range (.Pages.ByParam "graduated_year") }}
     <div class="alumni-person-tile">
       <div class="rect-img-container">
         <img class="alumni-person-tile-img"
