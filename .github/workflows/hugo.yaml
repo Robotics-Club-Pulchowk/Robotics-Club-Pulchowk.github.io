@@ -63,7 +63,7 @@ jobs:
 
       # Following two steps are for jamstack - https://jampack.divriots.com
       # Cache: https://jampack.divriots.com/cache/
-      - uses: actions/cache@v3
+      - uses: actions/cache@v4
         with:
           path: '.jampack'
           key: jampack-${{ github.run_id }}
@@ -73,7 +73,7 @@ jobs:
         run: npx @divriots/jampack ./public
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
