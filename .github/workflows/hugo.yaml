@@ -60,6 +60,18 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
+
+      # Following two steps are for jamstack - https://jampack.divriots.com
+      # Cache: https://jampack.divriots.com/cache/
+      - uses: actions/cache@v3
+        with:
+          path: '.jampack'
+          key: jampack-${{ github.run_id }}
+          restore-keys: |
+            jampack
+      - name: Execute jamstack
+        run: npx @divriots/jampack ./public
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
