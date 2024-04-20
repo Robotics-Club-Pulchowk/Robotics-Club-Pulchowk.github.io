@@ -1,0 +1,18 @@
+.alumni-tile_content {
+  text-align: left;
+}
+
+@media (max-width: 550px) {
+  .alumni-tile_content {
+    text-align: center;
+  }
+  .alumni-tile_title {
+    padding: 0;
+    margin: 0;
+    font-size: larger;
+  }
+}
+
+.project-entry-title {
+  text-align: left;
+}

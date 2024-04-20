@@ -11,7 +11,7 @@
         <img class="alumni-person-tile-img"
           src="{{.Site.BaseURL}}alumni/{{.Params.slug}}/{{ .Params.personal_photo_src}}" alt="image">
       </div>
-      <div class="alumni-tile_content" style="text-align: left">
+      <div class="alumni-tile_content">
         <h3 class="alumni-tile_title">
           {{ .Title }}
         </h3>
@@ -20,9 +20,6 @@
         </p>
         <p>
           Department: {{.Params.department}}
-        </p>
-        <p class="alumni-tile_descrip">
-          {{.Content}}
         </p>
       </div>
     </div>
