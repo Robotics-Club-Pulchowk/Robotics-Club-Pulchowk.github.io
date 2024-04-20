@@ -8,8 +8,7 @@
     {{ range . }}
     <div class="alumni-year-tile">
       <div class="rect-img-container-year">
-        <img class="alumni-year-tile-img" src="https://robotics.pcampus.edu.np/images/groupPhotos/{{.Page.Title }}.webp"
-          onerror="this.src='{{ absURL " /" }}images/groupPhotos/{{ .Page.Title }}.webp'" alt="">
+        <img class="alumni-year-tile-img" src="{{ absURL "" }}images/groupPhotos/{{ .Page.Title }}.webp" alt="">
       </div>
       <a class="term" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
     </div>

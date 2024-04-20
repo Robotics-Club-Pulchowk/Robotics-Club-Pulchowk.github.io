@@ -23,3 +23,7 @@ hugo.linux
 
 # Example site (themes/hugo-liftoff)
 **/exampleSite/**
+
+Dockerfile
+docker-compose.yml
+.dockerignore

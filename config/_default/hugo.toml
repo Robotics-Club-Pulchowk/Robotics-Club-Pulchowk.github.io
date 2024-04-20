@@ -1,7 +1,5 @@
 ### General
 baseURL = 'https://robotics.pcampus.edu.np/' # Enter your full production URL
-languageCode = 'en-us' # Default
-timeZone = 'Asia/Kathmandu' # IANA timezone https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 title = 'Robotics Club, Pulchowk Campus' # Site title used throughout site
 
 ### SEO, Analytics & 3rd-party
