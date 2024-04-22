@@ -1485,17 +1485,47 @@ body {
   width: 100%;
   padding: 2px 5px;
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto;
+  height: 500px; }
 
 .photos_grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-gap: 15px; }
+  position: relative;
+  min-height: 500px;
+  overflow: hidden; }
 
-.photos_container {
-  width: 100%;
-  border-radius: 15px;
-  height: inherit; }
+.photo_container {
+  position: absolute;
+  max-height: 80vh;
+  max-width: 100%;
+  display: none;
+  transform: translate(0, 0);
+  top: 0;
+  bottom: 0; }
+
+.photo_container__hide {
+  display: none; }
+
+.photo_container__show {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: block;
+  transition: all 0.4s;
+  z-index: 1000; }
+
+.photo_container__left {
+  top: 50%;
+  left: 0;
+  transform: translate(-1100px, -50%);
+  display: inherit;
+  transition: all 0.4s; }
+
+.photo_container__right {
+  top: 50%;
+  left: 0;
+  transform: translate(1100px, -50%);
+  display: inherit;
+  transition: all 0.4s; }
 
 @media (min-width: 640px) {
   .gallery_container {

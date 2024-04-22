@@ -11,10 +11,9 @@
   <div class="gallery_container">
     <div class="photos_grid">
       {{ range readDir "/static/images/gallery" }}
-      <div class="photo_container">
-        <img alt="gallery" class="photos_container" src='images/gallery/{{.Name}}' />
-      </div>
+      <img class="photo_container photo_container__hide img_id_{{strings.TrimSuffix ".webp" .Name}}" data-img-id="{{strings.TrimSuffix ".webp" .Name}}" alt="gallery"  src='images/gallery/{{.Name}}' />
       {{ end }}
+    </div>
 
 
     </div>
