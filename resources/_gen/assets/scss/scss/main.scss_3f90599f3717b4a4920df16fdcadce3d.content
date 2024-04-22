@@ -1498,9 +1498,7 @@ body {
   max-height: 80vh;
   max-width: 100%;
   display: none;
-  transform: translate(0, 0);
-  top: 0;
-  bottom: 0; }
+  transform: translate(0, 0); }
 
 .photo_container__hide {
   display: none; }
