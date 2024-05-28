@@ -17,9 +17,11 @@ let callback = (entries, observer) => {
     };
   })
 }
+
 let observer = new IntersectionObserver(callback, options);
 
 let target = document.querySelector(".photos_grid");
+
 observer.observe(target);
 
 
@@ -34,14 +36,16 @@ function galleryScroller() {
 
 export function gallerySetter() {
   // console.log(noOfImg);
-  prevLeftId = (currentId - 2 <= 0) ? currentId + noOfImg - 2 : currentId - 2;
-  nextRightId = (currentId + 2 > noOfImg) ? currentId - noOfImg + 2 : currentId + 2;
-  leftId = (currentId - 1 <= 0) ? currentId + noOfImg - 1 : currentId - 1;
-  rightId = (currentId + 1 > noOfImg) ? currentId - noOfImg + 1 : currentId + 1;
-  currentImg = document.querySelector(`.img_id_${currentId}`);
-  leftImg = document.querySelector(`.img_id_${leftId}`);
-  rightImg = document.querySelector(`.img_id_${rightId}`);
-  prevLeftImg = document.querySelector(`.img_id_${prevLeftId}`);
+  let prevLeftId = (currentId - 2 <= 0) ? currentId + noOfImg - 2 : currentId - 2;
+  let nextRightId = (currentId + 2 > noOfImg) ? currentId - noOfImg + 2 : currentId + 2;
+  let leftId = (currentId - 1 <= 0) ? currentId + noOfImg - 1 : currentId - 1;
+  let rightId = (currentId + 1 > noOfImg) ? currentId - noOfImg + 1 : currentId + 1;
+
+
+  let currentImg = document.querySelector(`.img_id_${currentId}`);
+  let leftImg = document.querySelector(`.img_id_${leftId}`);
+  let rightImg = document.querySelector(`.img_id_${rightId}`);
+  let prevLeftImg = document.querySelector(`.img_id_${prevLeftId}`);
 
 
   prevLeftImg.classList.remove("photo_container__left");
