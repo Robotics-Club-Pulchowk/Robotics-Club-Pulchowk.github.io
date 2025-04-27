@@ -21,6 +21,80 @@
         <p>
           Department: {{.Params.department}}
         </p>
+        <!-- Social Share Button HTML -->
+        <div class="social-links">
+          <ul class="social-icons">
+            <!-- Twitter -->
+            {{ if .Params.twitter_id }}
+            <li>
+              <a href="https://twitter.com/{{ . }}" target="_blank" rel="noopener" aria-label="Visit Twitter profile"
+                class="social-btn twitter">
+                {{ partial "svg/twitter.svg" }}
+              </a>
+            </li>
+            {{ end }}
+
+            {{ if .Params.fb_id }}
+            <li>
+              <a href="https://www.facebook.com/{{ .Params.fb_id }}" target="_blank" rel="noopener"
+                aria-label="Visit LinkedIn profile" class="social-btn linkedin">
+                {{ partial "svg/facebook.svg" }}
+              </a>
+            </li>
+            {{ end }}
+
+
+            <!-- Github -->
+            {{ if .Params.github_id }}
+            <li>
+              <a href="https://github.com/{{ .Params.github_id }}" target="_blank" rel="noopener"
+                aria-label="Visit Github profile" class="social-btn github">
+                {{ partial "svg/github.svg" }}
+              </a>
+            </li>
+            {{ end }}
+
+            <!-- Stack Overflow -->
+            {{ with .Site.Params.social.links.stack_overflow }}
+            <li>
+              <a href="https://stackoverflow.com/users/{{ .Params }}" target="_blank" rel="noopener"
+                aria-label="Visit Stack Overflow profile" class="social-btn stack-overflow">
+                {{ partial "svg/stack-overflow.svg" }}
+              </a>
+            </li>
+            {{ end }}
+
+            <!-- LinkedIn -->
+            {{ if .Params.linkedin_id }}
+            <li>
+              <a href="https://www.linkedin.com/in/{{ .Params.linkedin_id }}" target="_blank" rel="noopener"
+                aria-label="Visit LinkedIn profile" class="social-btn linkedin">
+                {{ partial "svg/linkedin.svg" }}
+              </a>
+            </li>
+            {{ end }}
+
+            <!-- LinkedIn - Company -->
+            {{ with .Params.linkedin_company_id }}
+            <li>
+              <a href="https://www.linkedin.com/company/{{ .Params.linkedin_company_id }}" target="_blank"
+                rel="noopener" aria-label="Visit LinkedIn profile" class="social-btn linkedin">
+                {{ partial "svg/linkedin.svg" }}
+              </a>
+            </li>
+            {{ end }}
+
+            <!-- Email -->
+            {{ if .Params.email }}
+            <li>
+              <a href="mailto:{{ .Params.email }}" target="_blank" class="social-btn email">
+                {{ partial "svg/email.svg" }}
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+
       </div>
     </div>
     {{ end }}

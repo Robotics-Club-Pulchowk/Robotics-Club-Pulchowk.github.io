@@ -1,6 +1,6 @@
 ---
 title: Posts
-summary: Tell visitors about your posts by customizing this text.
-description: Explore some of my recent posts.
+summary: Posts written by our esteemed alumni and club members.
+description: Explore some of our recent posts.
 draft: false
 ---

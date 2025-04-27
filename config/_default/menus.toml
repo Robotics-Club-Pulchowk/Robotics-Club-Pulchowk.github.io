@@ -73,3 +73,11 @@
     url = "/years/"
     parent = "explore"
     weight = 10
+
+
+#[[main]]
+#    identifier = "blogs"
+#    name = "Posts"
+#    url = "/posts/"
+#    parent = "explore"
+#    weight = 12

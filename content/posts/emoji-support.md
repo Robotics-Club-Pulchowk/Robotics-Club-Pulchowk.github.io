@@ -15,15 +15,15 @@ publishDate:
 feature_image: 
 feature_image_alt: 
 
-categories:
-  - Formatting
-tags:
-  - Emoji
+# categories:
+#   - Formatting
+# tags:
+#   - Emoji
 
 toc: true
 related: true
-social_share: true
-newsletter: true
+social_share: false
+newsletter: false
 disable_comments: false
 ---
 

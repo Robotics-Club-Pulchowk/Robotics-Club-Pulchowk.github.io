@@ -16,5 +16,11 @@ years:
 personal_photo_src: {{.Name}}.webp
 group_photo_src: 
 
+github_id:
+email:
+fb_id:
+linkedin_id:
+twitter_id:
+
 ---
 
