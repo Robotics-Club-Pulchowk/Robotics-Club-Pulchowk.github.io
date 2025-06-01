@@ -7,7 +7,7 @@ author: Apil Chaudhary
 
 date: 
 
-graduated_year: 2026
+graduated_year: ___
 department: BCT
 years:
   - 2023
