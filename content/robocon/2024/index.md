@@ -11,7 +11,7 @@ lastmod:
 expiryDate: 
 publishDate: 
 
-feature_image: team_departure.webp
+feature_image: 2024.webp
 feature_image_alt: Team Nepal departing from Tribhuvan International Airport
 
 categories:
@@ -20,7 +20,7 @@ series:
 
 ---
 
-{{< figure src="team_departure.webp" alt="Alt text" caption="***Team Nepal departing from Tribhuvan International Airport***" >}}
+{{< figure src="2024.webp" alt="Alt text" caption="***Team Nepal departing from Tribhuvan International Airport***" >}}
 
 
 
