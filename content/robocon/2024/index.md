@@ -27,6 +27,8 @@ series:
 
 With the theme “Harvest Day” symbolizing the agricultural history of Vietnam, ABU Robocon 2024 was hosted in Quang Ninh province of Vietnam. The theme consisted of a full agrarian cycle i.e. planting, harvesting and storing. Each participating team needed to make two robots: **Robot 1** and **Robot 2**; out of which Robot 1 should be an automatic robot and Robot 2 could be manual/semi-automatic/automatic. One team would be **Red** and the other team would be **Blue**.
 
+| [Official Theme Release Video](https://www.youtube.com/watch?v=zavE1DzyH6Q&t=66s)
+
 {{<image-with-caption img_src="mr_closeup.webp" caption="Robot 1 (Manual Robot)">}}
 
 As per the theme, Robot 1 had access to planting and harvesting zones while Robot 2 had access to planting, harvesting, storage and silo zones. At first, our Robot 1 planted the seedlings on top of pre-determined markers. Based on the number of successful planting, grains were harvested by Robot 1 in the following order: **1 Empty Grain (Purple ball)**, then **1 Paddy Rice (Team coloured ball)**.
