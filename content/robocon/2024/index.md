@@ -40,3 +40,7 @@ Finally, our Robot 2 would go to the storage zone, pick up Paddy Rice and then s
 {{<image-with-caption img_src="tokyo_electron.webp" caption="Team Nepal with Tokyo Electron Award">}}
 
 Robot 1 had a unique seedling intake design based on a pulley and belt mechanism as well as a screw mechanism for seedling storage. Robot 2 had a roller mechanism mounted with multiple Mecanum wheels for easy intake of grains. In the event, Team Nepal won the **Tokyo Electron Award** for the unique design of robots.
+
+## Documentation
+
+[ABU Robocon 2024 - Report (Draft)](https://docs.google.com/document/d/1d9einu8N7iAAD75FOfBl8nLr_U-7Kv6OjD30H_A_YfM/edit?usp=sharing)
