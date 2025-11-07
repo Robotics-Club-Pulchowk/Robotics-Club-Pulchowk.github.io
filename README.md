@@ -14,9 +14,9 @@
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/jarp0l>
-            <img src=https://avatars.githubusercontent.com/u/57973356?v=4 width="100;"  alt=Prajwol P/>
+            <img src=https://avatars.githubusercontent.com/u/57973356?v=4 width="100;"  alt=Prajwol Pradhan/>
             <br />
-            <sub style="font-size:14px"><b>Prajwol P</b></sub>
+            <sub style="font-size:14px"><b>Prajwol Pradhan</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
